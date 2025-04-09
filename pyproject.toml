@@ -1,0 +1,13 @@
+[project]
+name = "hello-how-are-you"
+version = "0.1.0"
+description = "A simple CLI that prints 'how are you'"
+readme = "README.md"
+requires-python = ">=3.7"
+
+[project.scripts]
+hello = "hello.__main__:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
