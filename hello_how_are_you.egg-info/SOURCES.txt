@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+hello/__main__.py
+hello_how_are_you.egg-info/PKG-INFO
+hello_how_are_you.egg-info/SOURCES.txt
+hello_how_are_you.egg-info/dependency_links.txt
+hello_how_are_you.egg-info/entry_points.txt
+hello_how_are_you.egg-info/requires.txt
+hello_how_are_you.egg-info/top_level.txt
